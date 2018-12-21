@@ -19,6 +19,7 @@ The goals / steps of this project are the following:
 [fig_colors]: ./examples/fig_colors.png
 [fig_pipeline_full]: ./examples/fig_pipeline_full.png
 [fig_pipeline_comp]: ./examples/fig_pipeline_comp.png
+
 ---
 
 # 0. Reflection
